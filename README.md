@@ -33,7 +33,8 @@ Set against the breathtaking landscapes of East Africa — from the skyscrapers 
 
 ## 🌐 Read Online
 
-Coming soon at: **https://walusimbi-leon1.github.io/whispers-of-destiny/**
+✅ **Read online:** https://walusimbi-leon1.github.io/whispers-of-destiny/book.html
+- 📥 **[Download PDF](https://walusimbi-leon1.github.io/whispers-of-destiny/Whispers%20of%20Destiny.pdf)**
 
 ## 📚 Part of the SGSS Literary Collection
 
