@@ -61,6 +61,8 @@ She did not know that she would meet David Ochieng on a plane the next morning �
 
 She only knew that when she closed her eyes, she saw not Robert's face, but a landscape she had never visited — golden plains stretching to an endless horizon, acacia trees silhouetted against a crimson sky, and the whisper of a wind that carried the scent of rain and adventure and everything she had been too afraid to want.
 
+She fell asleep with the image still burning behind her eyelids, and when she dreamed, she dreamed of a man whose face she could not see but whose voice she could hear — a voice that told her, in a language she did not know but somehow understood, that her life was about to begin.
+
 ---
 
 ## Chapter 1 — The Meeting
@@ -151,7 +153,21 @@ Sarah looked at David's profile, silhouetted against the brightening sky, and fe
 
 The flight was nine hours, but it felt like minutes.
 
-They talked through the meal service, through the in-flight movie neither of them watched, through the long darkness over the Mediterranean and the Sahara. They talked about their work — David's photography, her architecture — and discovered a shared philosophy about both. They believed that true craftsmanship was invisible, that the best work made people feel something before they understood why. They believed that beauty was not decoration but necessity, that well-designed spaces and well-captured moments could change the way people saw the world.
+They talked through the meal service, through the in-flight movie neither of them watched, through the long darkness over the Mediterranean and the Sahara. The cabin lights were dimmed, the other passengers drifting into sleep, but the two of them remained awake, their voices low and intimate in the pressurized quiet.
+
+They talked about their work — David's photography, her architecture — and discovered a shared philosophy about both. They believed that true craftsmanship was invisible, that the best work made people feel something before they understood why. They believed that beauty was not decoration but necessity, that well-designed spaces and well-captured moments could change the way people saw the world.
+
+"My mother wanted me to be a doctor," David said at one point, as the flight attendant cleared their dinner trays. "She would say, 'A photographer is not a proper job. You need something stable.'"
+
+"Mine wanted me to marry a doctor," Sarah replied. "She would say, 'A woman needs a man who can provide.'"
+
+"And here we are. Both disappointing our mothers."
+
+"But making ourselves happy."
+
+David raised his glass of water in a mock toast. "To disappointing our mothers in the best possible way."
+
+Sarah laughed, and for a moment, the weight of her engagement, her doubts, her carefully constructed life — it all fell away, and she was just a woman laughing with a stranger on a plane. They talked about their work — David's photography, her architecture — and discovered a shared philosophy about both. They believed that true craftsmanship was invisible, that the best work made people feel something before they understood why. They believed that beauty was not decoration but necessity, that well-designed spaces and well-captured moments could change the way people saw the world.
 
 "You should see the Mara," David said, leaning toward her across the middle seat that separated them. "The Maasai Mara in October, when the wildebeest migration is at its peak. The herds stretch from horizon to horizon, millions of animals moving as one organism. The dust rises like smoke from a massive fire. The ground trembles beneath their hooves. It's the closest thing to witnessing creation that I've ever experienced."
 
@@ -199,6 +215,14 @@ It was the simplest question in the world, and Sarah had no answer.
 
 "I want to feel something," she said finally, and the admission felt like a confession. "I want to wake up in the morning and feel like my life is my own. I want to look at the person beside me and know, without a doubt, that I chose him — not because he was safe, not because he was what my parents wanted, but because I couldn't imagine my life without him. I want to feel the way you describe the Mara. Like I'm witnessing creation."
 
+She paused, looking down at her hands. She had never said these words aloud before. She had barely admitted them to herself. But here, suspended above the earth with a stranger who felt like an old friend, the truth had come pouring out.
+
+"Robert is a good man," she continued. "He's kind and successful and he loves me. I know he loves me. And I thought that was enough. I thought love was something you received, not something you felt. But now I'm not so sure."
+
+"You're not sure if you love him?"
+
+"I'm not sure I know what love is anymore. I thought it was comfort, familiarity, shared history. But maybe it's more than that. Maybe love is supposed to feel like — like the ground trembling beneath you. Like the world tilting on its axis. Like you've been asleep your whole life and someone has finally woken you up."
+
 David was quiet for a long moment. When he spoke, his voice was soft, almost tender.
 
 "I felt that way once," he said. "Her name was Amara. She was a teacher at a school in Nairobi — she taught English to children who had never spoken a word of it. She had this laugh that made everyone around her smile, even when they didn't know what was funny. And she looked at me like I was the most important person in the world."
@@ -224,6 +248,16 @@ Instead, they sat side by side in the growing light, watching the African contin
 "It's beautiful," Sarah breathed.
 
 "It's home," he said. "Well, one of them. I don't really have a home anymore. I travel so much that I've learned to make home wherever I am. A hotel room in Mombasa, a tent in the Serengeti, a borrowed flat in Cape Town. Home is a feeling, not a place."
+
+"I've always thought of home as a physical thing," Sarah said. "The house you grew up in. The street you know. The city where your people are."
+
+"And now? Are you reconsidering?"
+
+She looked out the window at the African continent rising to meet them, vast and green and gold beneath the morning sun. "I think I'm starting to understand that home can be a person too." She paused. "Or perhaps a feeling. That sense of rightness when you're exactly where you're supposed to be."
+
+David turned to look at her, his expression unreadable. "Do you feel that now?"
+
+"Yes," she said, and she was surprised to find that she meant it. "For the first time in a long time, I feel exactly where I'm supposed to be."
 
 "That sounds lonely."
 
@@ -495,9 +529,11 @@ The time difference meant it was early evening in London, and Robert was sitting
 
 "I never understood the appeal of that film. Too slow. All that waiting around for something to happen."
 
-Sarah felt a small, sharp disappointment, the kind she had become accustomed to over their three years together. Robert had a way of reducing things to their surface level, of missing the depth that she found in art and literature and life.
+Sarah felt a small, sharp disappointment, the kind she had become accustomed to over their three years together. Robert had a way of reducing things to their surface level, of missing the depth that she found in art and literature and life. It was a small thing — just a comment about a film — but it was part of a pattern she had long tried to ignore. He didn't see the world the way she did. He didn't feel things the way she did. And for years, she had told herself that this was a strength — that his practicality balanced her romanticism, that his stability anchored her dreams.
 
-"Did you get the venue sorted?" she asked, changing the subject.
+But sitting in her hotel room in Nairobi, the Ngong Hills visible through her window, the memory of David's honey-brown eyes still fresh in her mind, she could no longer pretend that their differences were complementary. They were fundamental. Irreconcilable.
+
+"Did you get the venue sorted?" she asked, changing the subject before the silence could grow awkward.
 
 "The Langham has an opening in December. I spoke with the events manager today. She said we could have the ballroom."
 
@@ -507,9 +543,33 @@ Sarah felt a small, sharp disappointment, the kind she had become accustomed to 
 
 "But it's the Langham." She tried to keep the resignation out of her voice.
 
-"Exactly." Robert smiled, clearly pleased with himself. "My mother is thrilled. She's already talking to a florist."
+"Exactly." "Other options?" Sarah asked, her voice careful.
 
-"Of course she is."
+"Well, there's the Dorchester. And Claridge's. But my mother thinks the Langham has the best reputation."
+
+"Your mother."
+
+"She wants to help, Sarah. You know how she is."
+
+Sarah knew exactly how his mother was. She was a woman who had planned every detail of her son's life since he was born — the schools he attended, the friends he kept, the career he pursued, the woman he should marry. Sarah had always felt like she was being auditioned for the role of Robert's wife, and for years, she had performed the part flawlessly. She had laughed at the right moments, agreed with the right opinions, worn the right clothes to family dinners.
+
+But she was tired of performing.
+
+"Can we talk about this when I get back?" she said. "I'm in the middle of a major project. I can't think about wedding planning right now."
+
+"Of course. I understand." But there was a tightness in his voice that suggested he didn't understand at all. "Just let me know when you're free to discuss it."
+
+"I will."
+
+"How's the weather there?"
+
+"Beautiful. Warm. The sunsets are incredible."
+
+"It's raining here, as usual."
+
+"I saw."
+
+There was a pause, the kind of pause that had become familiar between them — a silence filled with things unsaid, with conversations they were both too tired to have.
 
 "Is something wrong, Sarah? You sound — I don't know — distant."
 
@@ -667,13 +727,23 @@ David laughed. "You know me too well."
 
 "I am your mother. I have known you since you were a whisper in my belly. Tell me."
 
-He paused, gathering his thoughts. The morning light was filtering through his curtains, casting long shadows across the floor.
+He paused, gathering his thoughts. The morning light was filtering through his curtains, casting long shadows across the floor. Outside, Nairobi was waking up — the distant rumble of matatus, the crowing of a rooster from the compound next door, the voice of a neighbor calling to her children.
 
 "I met someone, Mama."
 
 "Someone? What kind of someone?"
 
 "A woman. On a plane from London. She's an architect. She's here for a project."
+
+"An architect." His mother's voice held a note of approval. "That is a good profession. She builds things."
+
+"She builds beautiful things, Mama. She's designing a museum in Karen. It's going to be one of the most important cultural buildings in East Africa."
+
+"And her family? Where are they from?"
+
+"Uganda. Kampala. Her parents are from Jinja."
+
+"Jinja. The source of the Nile." His mother was quiet for a moment, and David could imagine her nodding slowly. "That is a good place. I have heard the people there are warm."
 
 "And she is the reason you call me at dawn?"
 
@@ -691,7 +761,35 @@ The silence on the other end of the line was heavy with understanding.
 
 "But the stone does not protect you, *jawabu.* It only weighs you down. If you want to fly, you must learn to let it go."
 
-"How?"
+"I've tried to let it go. I've tried so many times, Mama. But it keeps coming back. Every time I think I'm ready to open my heart, the fear returns."
+
+"Because you have never forgiven yourself."
+
+"Forgiven myself for what?"
+
+"For Amara. You blamed yourself for her leaving. You told yourself that if you had been different — if you had been smaller, less ambitious, more willing to fit into her world — she would have stayed. You have been carrying that guilt for years, and it has closed your heart to everyone who came after her."
+
+David felt the truth of his mother's words settle into his bones. She was right. He had not only lost Amara — he had used her leaving as proof that love was not for him. He had told himself that relationships required sacrifice of self, and he had refused to make that sacrifice.
+
+"How do I forgive myself, Mama?"
+
+"By accepting that you did the best you could with what you knew at the time. By understanding that Amara was not your last chance at love — she was your teacher. She taught you what you needed to learn before you could love someone truly."
+
+"And what did I need to learn?"
+
+"That love is not a cage. That being with someone does not mean giving up who you are. That two people can walk side by side without losing themselves."
+
+David closed his eyes, his mother's words settling into his chest like seeds.
+
+"I don't know if I can, Mama."
+
+"I know, *jawabu.* But you can try. That is all any of us can do."
+
+After he hung up, David sat in the growing light of morning, the phone warm in his hand. He thought about Amara, about the life they had almost built together. He thought about the ways he had failed her, and the ways she had failed him. He thought about the lessons he had learned, the wounds that had healed, the scars that still remained.
+
+And he thought about Sarah.
+
+She was not Amara. He was not the man he had been with Amara. Perhaps — perhaps he was ready to try again."}]}
 
 "By opening your heart. By trusting that even if you are hurt again, you will survive. By choosing love, not because it is safe, but because it is worth the risk."
 
@@ -845,13 +943,27 @@ Lekuta nodded slowly. "Then you are welcome, builder. The Mara has much to show 
 
 Sarah's tent was simple but comfortable — a cot with a thick mattress, a lantern, a chair. The walls were canvas, and the floor was packed earth, and she could hear the sounds of the bush all around her — birds calling, insects chirping, the distant lowing of wildebeests. She had never felt so exposed, so vulnerable, so alive.
 
-In the afternoon, David took her on a game drive. They followed dirt tracks through the long grass, past herds of zebras and topis and Grant's gazelles. They found a pride of lions resting in the shade of a large rock outcropping, the cubs tumbling over each other while the adults dozed.
+In the afternoon, David took her on a game drive. They followed dirt tracks through the long grass, the Land Rover bouncing over rocks and ruts that would have been impassable in any other vehicle. David drove with one hand, the other holding his camera, ready to raise it at any moment.
+
+They passed herds of zebras, their black-and-white stripes rippling in the heat haze. A family of warthogs, tails held stiffly upright, trotted across the road ahead of them. Giraffes appeared and disappeared among the acacia trees, their long necks swaying as they moved.
+
+"Look," David said, stopping the car and pointing. "A secretary bird."
+
+Sarah followed his gaze and saw a tall, gray bird striding through the grass on long legs, its head topped with quill-like feathers that resembled pens tucked behind an ear. "Why is it called that?".
+
+"Because the feathers look like quill pens. Secretaries used to tuck their pens behind their ears."
+
+"You know so much about this place."
+
+"I've spent my life learning it. And I still feel like I've barely scratched the surface."
+
+They found a pride of lions resting in the shade of a large rock outcropping, the cubs tumbling over each other while the adults dozed. David cut the engine, and they sat in silence, watching. One of the cubs, no more than a few months old, batted at its mother's tail, then pounced on a sibling. The two cubs wrestled in the dust while the adults watched with half-closed eyes.
 
 Sarah watched through binoculars, her breath held, afraid that even the sound of her breathing would disturb the scene.
 
 "They look so peaceful," she whispered.
 
-"They are. This is their home. They have nothing to prove, nothing to fear, nothing to rush toward or away from. They simply exist, in perfect harmony with their world."
+"They are. This is their home. They have nothing to prove, nothing to fear, nothing to rush toward or away from. They simply exist, in perfect harmony with their world."}]}
 
 "It must be nice," Sarah said. "To exist like that. Without second-guessing, without wondering if you're making the right choices."
 
@@ -965,9 +1077,15 @@ They drove to a crossing point on the Mara River, where thousands upon thousands
 
 They waited for hours. The animals milled and jostled, a sea of bodies stretching in every direction. And then, without warning, a single wildebeest stepped into the water.
 
-The crossing was chaos and terror and beauty all at once. The animals surged into the river, their bodies thundering through the water, their eyes wide with fear and determination. Crocodiles emerged from the depths, taking their share. The weak fell and were trampled. The strong pressed on.
+The crossing was chaos and terror and beauty all at once.
 
-And on the other side, the survivors climbed the bank and shook themselves dry and walked on into the waiting grass, their journey continuing, their purpose unchanged.
+The first wave of animals hit the water, and the river exploded into motion. Bodies crashing, water splashing, the desperate bellows of the wildebeests mixing with the sharp barks of the zebras. A calf was separated from its mother, swept downstream by the current, its cries lost in the cacophony. A crocodile lunged, and an older wildebeest disappeared beneath the surface, a swirl of red marking the spot where it had been.
+
+But the crossing continued. The animals surged into the river without hesitation, their bodies thundering through the water, their eyes wide with fear and determination. The crocodiles emerged from the depths, taking their share. The weak fell and were trampled. The strong pressed on.
+
+Sarah watched, her hands pressed against her mouth, horror and wonder warring in her chest. It was brutal. It was necessary. It was the way of this ancient land, unchanged for millions of years.
+
+And on the other side, the survivors climbed the bank and shook themselves dry and walked on into the waiting grass, their journey continuing, their purpose unchanged. The calf that had been swept downstream found its mother on the far bank, and they rejoined the herd as if nothing had happened.
 
 Sarah watched with tears streaming down her face.
 
@@ -1021,13 +1139,61 @@ Sarah closed her eyes. The sun was warm on her face, and the wind carried the sc
 
 "You're right," she said quietly. "Something has changed."
 
-Robert was silent.
+She heard Robert exhale — a long, slow breath that carried the weight of realization. "I knew it," he said, his voice flat. "When you didn't call for two days, I knew something was wrong. You always call. You're reliable, Sarah. That's one of the things I loved about you. When you stopped calling, I knew."
 
-"I don't know how to explain this," she continued. "I don't know how to make you understand something I don't fully understand myself. But I've been thinking — for a long time — and I don't think I can marry you."
+"I'm sorry, Robert. I never meant to hurt you."
 
-The words hung in the air between them, across continents and time zones and the vast distance that had always existed between what she felt and what she had pretended to feel.
+"Hurt me?" His voice cracked slightly. "I'm not hurt, Sarah. I'm — I don't know what I am. I thought we had a future together. I thought we were building something."
 
-"Is this a joke?"
+"We were. But it wasn't the right thing. I was building what I thought I was supposed to build, not what I actually wanted."
+
+"And what do you actually want?" The question was sharp, almost accusatory. "Because two weeks ago, what you wanted was to marry me in December at the Langham and spend the rest of our lives in South London. Now you're in the middle of nowhere, and you've apparently had a revelation."
+
+"I have had a revelation. I can't explain it to you in a way that will make sense. It's not about you — it's about me. I've been sleepwalking through my life, Robert. I've been doing what everyone expected me to do, being who everyone expected me to be. And I can't do it anymore."
+
+"Because of him."
+
+"Because of me." She felt tears start to form, and she blinked them back. "He's part of it. Meeting him showed me something I didn't know I was missing. But the problem was already there. It's been there for years. I just didn't have the courage to face it."
+
+"So what now?" Robert's voice was quieter now, the anger giving way to something that sounded more like resignation.
+
+"I don't know. I need time. I need space. I need to figure out who I am when I'm not trying to be who everyone wants me to be."
+
+"And what about the ring?"
+
+Sarah looked down at her bare finger. "I'll send it back to you. It wouldn't be right to keep it."
+
+"Keep it. Sell it. Throw it in the Thames. I don't care." There was bitterness in his voice now. "I have to go, Sarah. I can't talk about this right now."
+
+"I understand."
+
+"I hope you find whatever you're looking for." He paused, and when he spoke again, his voice was barely above a whisper. "I really did love you, you know."
+
+"I know, Robert. And I'm sorry I couldn't love you the way you deserved."
+
+The line went dead.
+
+Sarah lowered the phone and stared at the empty screen. She felt hollow, emptied of everything but the certainty that she had done the right thing — and the terror of what came next.
+
+She sat down on the grass, her legs suddenly unable to hold her. The earth was warm beneath her, and she could feel the vibration of the wildebeest herds moving somewhere in the distance. She had ended a chapter of her life. Three years of history, of shared meals and conversations and plans for the future — all gone, dissolved in a phone call from a place where the only signal came through a crack in the atmosphere.
+
+David appeared beside her, his steps quiet on the grass. He didn't say anything. He simply sat down next to her, close enough that she could feel the warmth of his body. After a long moment, she leaned into him, her head resting on his shoulder.
+
+"Are you okay?" he asked softly.
+
+"I just ended my engagement."
+
+"I know."
+
+"I don't know what I'm doing."
+
+"That's okay. You don't have to know."
+
+"I'm scared."
+
+"I know. Me too."
+
+They sat together in the golden grass of the Mara, two people at the edge of a new beginning, holding each other as the afternoon sun traced its slow arc across the infinite sky.
 
 "No, Robert. It's not a joke."
 
@@ -1161,6 +1327,10 @@ She called Grace, who laughed. "I knew it. I saw it coming from the day we had d
 
 "You have the look, Sarah. The look of a woman who has finally found what she was looking for."
 
+"I'm scared, Grace."
+
+"Of course you're scared. Change is terrifying. But being scared doesn't mean you're wrong. It means you're alive."
+
 And she called David.
 
 "I need to see you," she said.
@@ -1211,9 +1381,25 @@ They knew the end was coming. They tried not to think about it.
 
 On her last day, David picked her up from the hotel and drove her to a place she had not seen — the Nairobi Arboretum, a forest of indigenous trees in the heart of the city. They walked along the paths, the canopy of leaves dappling the sunlight, the air filled with birdsong.
 
-"I have something for you," David said.
+It was a Sunday morning, and the arboretum was quiet. A few joggers passed them on the main path. A family was having a picnic on the grass, their children chasing each other around a massive fig tree. Sarah and David walked in silence, their hands clasped, the weight of the approaching goodbye pressing down on them.
 
-He handed her a small package, wrapped in brown paper.
+They found a bench beneath a yellow-barked acacia, and they sat down. The city seemed distant here, muffled by the trees. Squirrels chased each other up and down the trunk of a nearby cedar.
+
+"I've been thinking about this moment since we met," David said. "I knew it would come. I knew you would have to leave. I tried to prepare myself."
+
+"And did you?"
+
+"No. There's no preparing for this."
+
+Sarah leaned against him, her head resting on his shoulder. "I don't want to go back. I want to stay here, in this moment, forever."
+
+"Forever doesn't exist. Only now. And right now, I'm here with you."
+
+They sat in silence for a long time, watching the light shift through the leaves, listening to the sounds of the forest. A hornbill called from somewhere overhead, its distinctive cry echoing through the canopy.
+
+"I have something for you," David said finally.
+
+He reached into his bag and pulled out a small package, wrapped in brown paper and tied with twine.
 
 She opened it carefully. Inside was a photograph — a print of the first moment she had seen the Mara, her face captured in profile, wonder written across her features. The light was golden, the background a blur of green and gold. In the corner, David had written: *The moment I knew.*
 
@@ -1349,13 +1535,35 @@ They embraced, and it felt like coming home.
 
 The next three weeks were a revelation.
 
-David photographed London — the Thames at dawn, the gardens of Kensington, the markets of East London, the crowds at Trafalgar Square. But his best photographs were of her. He captured her laughing at a café, her hair wild in the wind on the South Bank, her face soft in the morning light as she slept.
+Having David in her world — her real world, the one she had built in London — was different from being with him in Kenya. In Nairobi, they had existed in a bubble, insulated from the ordinary rhythms of life. Here, she saw him interact with her colleagues, navigate the Tube, order coffee in her neighborhood café. She saw him adapt, learn, find beauty in the gray November light of the city she called home.
 
-"It's not just about beautiful places," he told her. "It's about the person you're with. The Mara was beautiful, but you made it unforgettable. London is the same."
+They established a rhythm. In the mornings, she would go to work, and he would explore the city with his camera. He photographed the Thames at dawn, when the water was silver and the bridges were silhouettes against the pale sky. He photographed the gardens of Kensington, where the last autumn leaves clung to the trees. He photographed the markets of East London — Brick Lane, Broadway Market, Columbia Road — where the vendors' voices rang out over the crowd and the smell of street food mingled with the exhaust of passing buses.
 
-He met her colleagues at a dinner party and charmed them with his stories of lions and leopards and Maasai warriors. He met her friend Priya over coffee and they talked for hours about his photography. He even spoke to her mother on the phone, his Luo politeness and gentle voice winning her over.
+In the evenings, she would come home, and he would show her what he had captured. They would cook dinner together — he taught her how to make chapati, she taught him how to make a proper roast — and they would eat on the sofa, watching the lights of the city through her window.
+
+But his best photographs were of her. He captured her laughing at a café in Soho, her hair wild in the wind on the South Bank, her face soft in the morning light as she slept. He photographed her in the kitchen, concentration etched on her face as she stirred a pot. He photographed her in the bath, steam rising around her, her eyes closed in contentment.
+
+"It's not just about beautiful places," he told her one evening, scrolling through the images on his camera. "It's about the person you're with. The Mara was beautiful, but you made it unforgettable. London is the same. Everywhere I go, the most beautiful thing I see is you."
+
+They spent a weekend in Paris, taking the Eurostar through the Channel Tunnel, emerging into a city of Haussmann boulevards and chestnut trees. David photographed the Eiffel Tower at dusk, the courtyard of the Louvre in the rain, the stained glass of Sainte-Chapelle. Sarah sketched the rooftops from their hotel window. They ate croissants for breakfast and crepes from a street vendor and drank wine in a small square where children chased pigeons and old men played boules.
+
+"I could live here," Sarah said, watching the sunset paint the sky in shades of pink and purple.
+
+"Anywhere," David said, taking her hand. "We could live anywhere."
+
+He met her colleagues at a dinner party she hosted in the flat. There was her boss, Diana, who was sharp and funny and took David aside for a private conversation that left him smiling. There was her friend Priya, who arrived with her husband and spent an hour talking to David about his photography, asking technical questions that impressed him. There was James from the office, who had always been a little in love with Sarah and who shook David's hand with more force than necessary.
+
+"He's charming," Priya said later, when they were washing dishes in the kitchen. "And he's clearly crazy about you."
+
+"It's only been a few months."
+
+"I know. But I've never seen you look at anyone the way you look at him. Not even Robert."
+
+David even spoke to her mother on the phone. Sarah's mother had been skeptical — she had made no secret of her disapproval of the whole situation — but David's Luo politeness and gentle voice seemed to win her over. He spoke to her in halting Luganda, which he had been practicing with Sarah, and her mother laughed at his accent but softened.
 
 "He seems like a good man," her mother admitted afterward. "Different from Robert. But perhaps different is what you need."
+
+"I think he is, Mama. I think he's exactly what I need."
 
 On his last night in London, they sat on the roof of her flat, looking out at the city lights, a bottle of wine between them.
 
@@ -1391,13 +1599,27 @@ He kissed her, and the city lights blurred around them, and they held each other
 
 ## Chapter 19 — The Crossing
 
-The airplane descended through the clouds, and below them, the landscape of Tanzania emerged — the green of the coastal plain, the blue of the Indian Ocean, the distant peak of Kilimanjaro shrouded in mist.
+The airplane descended through the clouds, and below them, the landscape of Tanzania emerged — the green of the coastal plain, the blue of the Indian Ocean, the distant peak of Kilimanjaro shrouded in mist like a god sleeping beneath a blanket of cloud.
 
-Sarah pressed her face to the window, her heart full.
+Sarah pressed her face to the window, her heart full to bursting.
 
-She had done it. She had sold her flat, quit her job, stored her belongings, and said goodbye to London. Her colleagues had thrown her a farewell party. Her mother had cried. Her brother had hugged her and told her she was brave.
+She had done it. She had sold her flat in South London, the one she had bought with Robert, the one that had never quite felt like home. She had quit her job at the firm, hugging Diana goodbye and promising to send postcards from every corner of East Africa. She had packed her life into two suitcases and a carry-on, leaving behind furniture and books and all the accumulated weight of a life she had outgrown.
 
-And now she was here, sitting beside David, flying toward an uncertain future that felt more certain than anything she had ever known.
+Her colleagues had thrown her a farewell party at a wine bar in Clapham. They had toasted her, laughed at stories from projects past, and presented her with a leather-bound journal inscribed with the words: *May your new life be as beautiful as the buildings you design.* Her friend Priya had cried and made her promise to visit at least once a year. "And send pictures," Priya had said. "Lots of pictures. I want to live vicariously through your amazing African adventure."
+
+Her mother had cried on the phone. "I don't understand why you have to go so far," she had said. "Why can't you be happy here, near your family?"
+
+"Because my heart is there, Mama. With him."
+
+Her mother had been silent for a long moment. Then: "Then go, *mwana wange.* Follow your heart. It has always known the way better than I have."
+
+Her brother had hugged her at the airport, holding her tighter than he ever had before. "You're brave," he said. "You're doing what most people only dream of."
+
+"I'm terrified."
+
+"That's what makes you brave."
+
+And now she was here, thirty thousand feet above the African continent, sitting beside David — her David — flying toward an uncertain future that felt more certain than anything she had ever known.
 
 "This is the crossing," David said, echoing the words he had spoken in the Mara. "The moment when you step into the water and trust that the current won't sweep you away."
 
@@ -1429,9 +1651,19 @@ On their third night in the Serengeti, a pride of lions passed within fifty mete
 
 In the morning, they found the tracks — massive paw prints pressed into the soft earth around their tent, a silent testament to the closeness of the wild.
 
-They ended their journey at Lake Tanganyika, on the western border of Tanzania, where the water was so clear she could see fish swimming twenty feet below the surface. They rented a small boat and spent a day on the lake, stopping at deserted beaches where they swam naked in the warm water and dried themselves on sun-heated rocks.
+They ended their journey at Lake Tanganyika, on the western border of Tanzania, where the water was so clear she could see fish swimming twenty feet below the surface. They rented a small boat and spent a day on the lake, stopping at deserted beaches where they swam naked in the warm water and dried themselves on sun-heated rocksThey ended their journey at Lake Tanganyika, on the western border of Tanzania, where the water was so clear she could see fish swimming twenty feet below the surface. They rented a small boat and spent a day on the lake, stopping at deserted beaches where they swam naked in the warm water and dried themselves on sun-heated rocks.
 
-"I could stay here forever," Sarah said, lying on a rock, her eyes closed, the sun warming her skin.
+The lake stretched to the horizon like an inland sea, its waters a deep, translucent blue. On the far shore, barely visible through the haze, lay the mountains of the Democratic Republic of Congo. David pointed out the distant outline of a fishing village, the tiny dots of boats on the water.
+
+"People have lived on these shores for thousands of years," he said. "Generations upon generations, living and dying by the rhythm of the lake."
+
+"And what do you think they would make of us? Two people from different countries, traveling thousands of miles to swim in their water?"
+
+David laughed. "They would probably think we were crazy. But I think they would understand. The pull of a place like this — it's universal."
+
+They spent three days on the lake. They ate fresh fish caught that morning, grilled over an open fire. They hiked into the surrounding forest, where David photographed rare primates and Sarah sketched the giant ferns that grew along the trail. At night, they lay on the beach, the stars so thick and bright that Sarah felt she could reach up and touch them.
+
+"I could stay here forever," Sarah said one afternoon, lying on a sun-warmed rock, her eyes closed, the heat seeping into her bones.
 
 "Forever is a long time."
 
@@ -1439,13 +1671,33 @@ They ended their journey at Lake Tanganyika, on the western border of Tanzania, 
 
 David lay down beside her, his hand finding hers. "We can try. We can try forever."
 
+On their last night in Tanzania, they sat on the veranda of their guesthouse, looking out at the lights of Arusha below them. The mountain loomed above, its peak hidden in clouds. Sarah had David's camera in her hands, turning it over, feeling its weight.
+
+"When I was in London," she said, "I used to look at the photographs you sent me. The ones of the sunsets, the animals, the places you'd been. And I would imagine myself there, standing beside you, seeing what you saw."
+
+"And now?"
+
+"Now I'm here. And my imagination was nothing compared to the reality."
+
+"Africa does that," David said. "It exceeds every expectation."
+
+"No." She shook her head. "You do that. You exceed every expectation."
+
+He leaned over and kissed her, soft and slow, the sounds of the African night rising around them.
+
 They stayed in camps and lodges and small guesthouses. They ate together under the stars. They made love in the soft light of lanterns. They argued about small things — where to eat, which road to take, whether to drive at night — and reconciled with laughter and apologies and the willingness to try again. They built the foundation of a life together, brick by brick, moment by moment.
 
 And at the end of the month, they flew to Nairobi.
 
-Sarah had found a job with a firm that specialized in sustainable African architecture. She had rented a small house in the Karen neighborhood, with a garden and a view of the Ngong Hills. She had started the process of making Kenya her home.
+Sarah had found a job with a firm that specialized in sustainable African architecture. It was a small firm, run by a Kenyan woman named Njeri who had trained in Cape Town and returned home to build the Africa she wanted to see. The office was in a converted house in Lavington, with a garden where they held their team meetings and a resident cat that slept on the blueprints.
 
-David had taken a smaller apartment in the same neighborhood, though they spent most nights together, the divide between their two homes becoming increasingly theoretical.
+Sarah had rented a small house in the Karen neighborhood, with a garden and a view of the Ngong Hills. It had three bedrooms, a veranda where she could drink her morning coffee, and a jacaranda tree in the front yard that bloomed purple in the spring. She had started the process of making Kenya her home — registering for a work permit, opening a bank account, learning to navigate the city's streets and rhythms.
+
+David had taken a smaller apartment in the same neighborhood, a ten-minute walk from her house. Though they spent most nights together, the divide between their two homes becoming increasingly theoretical, each of them kept their own space. "I need a place to keep my cameras," David said. And Sarah understood. After so many years of guarding their independence, they both needed time to learn how to share a life.
+
+They fell into a rhythm. In the mornings, Sarah went to work, designing buildings that honored African traditions while embracing sustainable innovation. David worked from his photographs, editing and preparing for exhibitions. They met for lunch when they could, at a café near the Karen Blixen Museum where the coffee was good and the garden was quiet. In the evenings, they cooked together or went out to eat, discovering the restaurants and hidden gems of their new shared city.
+
+On weekends, they explored. They drove to Lake Naivasha for a day trip, watching hippos wallow in the shallows. They hiked in the Aberdare Mountains, where the air was thin and cold and the views stretched to the horizon. They visited the Nairobi National Park again, this time as residents, not tourists — and Sarah watched the lions with new eyes, knowing that this was now her home.
 
 On a Sunday morning, six months after their journey began, they drove to the Kazuri Museum for its grand opening.
 
@@ -1474,6 +1726,32 @@ They embraced, laughing and crying at the same time.
 Sarah looked at David, at the museum, at the crowd of people gathered to celebrate the creation they had built together.
 
 "I am," she said. "I finally am."
+
+She turned to look at the museum one more time, at the stone that glowed in the morning light, at the gardens where children were already running and playing, at the flags of Kenya and Uganda and Tanzania fluttering side by side. The Kazuri Museum of East African Culture was open. And she — Sarah Nakato, who had arrived in this country a stranger, engaged to a man she didn't love, living a life that wasn't her own — she was home.
+
+David took her hand, and they walked together into the museum, into the cool dark of the entrance hall, where the first exhibit was already drawing a crowd — a collection of traditional Maasai beadwork, arranged in patterns that told the story of a people. Sarah had designed this space to feel like the inside of a termite mound — organic, curved, the light filtering through openings that mimicked the natural ventilation of the structures she had admired across the savannah.
+
+"It's perfect," David whispered.
+
+"It's ours," she whispered back.
+
+They walked through the galleries together, hand in hand. Sarah stopped at each exhibit, checking details, making mental notes. The lighting was perfect. The flow of the spaces was natural, intuitive. Visitors moved through the museum as if carried by a gentle current, pausing at the displays that caught their attention, moving on when they were ready.
+
+In the final gallery, there was a wall dedicated to the photographers and architects who had documented and shaped the landscape of East Africa. And there, in the center of the wall, was one of David's photographs — the lion at sunset from their first trip to the Mara. Below it, a plaque read: *David Ochieng — Capturing the Soul of East Africa.*
+
+"You never told me," Sarah said, her voice catching.
+
+"I wanted it to be a surprise. The curator asked me for a contribution months ago. I chose that one because — because it was the moment I knew I loved you."
+
+Sarah leaned into him, her head resting on his shoulder. Visitors passed around them, their voices hushed in the gallery, their footsteps soft on the stone floor.
+
+"I love you, David Ochieng."
+
+"And I love you, Sarah Nakato. Builder of beautiful things."
+
+"We built this together," she said, gesturing at the museum around them. "This place. This life."
+
+"And we're just getting started."
 
 ---
 
@@ -1539,13 +1817,59 @@ And so Lekuta told them the whole story — of how the builder had come from acr
 
 The children listened with wide eyes, and when the story was finished, they looked up at the stars and wondered what adventures awaited them.
 
-Far away, in a small house in Karen, a house that Sarah and David had bought together and filled with photographs and blueprints and the accumulated evidence of a life built together, a new story had begun to unfold. Sarah was pregnant — they had discovered it two weeks before the wedding — and the future stretched before them like the endless plains of the Serengeti, full of possibility and light.
+Far away, in a small house in Karen — a house that Sarah and David had bought together, painting the walls in warm earth tones and filling the rooms with photographs and blueprints and books and the accumulated evidence of a life built together — a new story had begun to unfold.
+
+The house was everything they had dreamed of. A living room with windows that faced the Ngong Hills. A garden where Sarah had planted indigenous flowers that attracted butterflies and sunbirds. A studio for David, with north-facing windows that let in the perfect light. A room that was currently empty, waiting.
+
+Sarah was pregnant — they had discovered it two weeks before the wedding, on a quiet morning when the test showed two lines and she had stood in the bathroom, her hand pressed to her mouth, tears streaming down her face. She had walked into the bedroom where David was still sleeping, and she had woken him with a kiss and placed the test in his hand. He had looked at it, looked at her, and pulled her into his arms.
+
+"A baby," he had whispered. "Our baby."
+
+"Are you scared?"
+
+"Terrified. And happier than I've ever been."
+
+Now, two months after the wedding, Sarah stood in the empty room that would become the nursery, her hand resting on the small swell of her belly. Through the window, she could see the Ngong Hills, green in the afternoon light. A pair of hawks circled overhead, riding the thermals.
+
+She felt David's arms wrap around her from behind, his chin resting on her shoulder.
+
+"What are you thinking?" he asked.
+
+"That this is real. That this is actually happening. That six months ago, I was sitting in a hotel room in this same city, engaged to a man I didn't love, wondering if I would ever feel alive."
+
+"And now?"
+
+She turned in his arms to face him. "Now I feel like my life is finally mine. Like every choice I made — every risk, every leap of faith — led me here. To this house. To this room. To you."
+
+David kissed her forehead. "To us."
+
+"To us."
 
 They would name their first child Nuru, which meant "light" in Swahili. A child born of two journeys that had converged, two hearts that had crossed the river, two lives that had found each other against all odds.
 
-And they would tell their child, when the time came, the story of how destiny had whispered across oceans and continents, across time and fear and the careful plans that people make. They would tell their child that love was not a destination but a journey. That the bravest thing you could do was not to hold on, but to let go. That the only failure was the failure to try.
+And they would tell their child, when the time came, the story of how destiny had whispered across oceans and continents, across time and fear and the careful plans that people make. They would tell their child about a lion that roared at sunrise, about a crossing that taught courage, about a sunset on a kopje where two strangers kissed and became something more.
 
-They would tell their child: listen to the whispers. They are leading you home."}]}
+They would tell their child that love was not a destination but a journey. That the bravest thing you could do was not to hold on, but to let go. That the only failure was the failure to try.
+
+They would tell their child: listen to the whispers. They are leading you home.
+
+The night grew deeper, and the stars wheeled overhead, and the fire crackled and popped. Sarah and David danced slowly in the glow of the flames, their bodies swaying to music only they could hear. Around them, their friends and family laughed and talked and celebrated. The world was vast and beautiful and full of possibility.
+
+And in the distance, across the endless plains of the Mara, a lion roared — a sound of pure, primal life, a declaration that the wild still existed, that love still existed, that hope still existed.
+
+David pulled Sarah closer, his lips against her hair. "Listen," he whispered. "The Mara is singing to us."
+
+"What is it saying?"
+
+"It's saying that we belong here. That we always have. That this is where our story was always meant to be written."
+
+Sarah closed her eyes, letting the sound wash over her. The lion roared again, and the night seemed to hold its breath, and in that moment, she felt the full weight of everything she had gained — not just David, not just this place, but herself. The self she had been too afraid to become. The self who had finally crossed the river.
+
+"I'm home," she said, and the words were not a question.
+
+"You are," David said. "We both are."
+
+The sound of destiny fulfilled."}]}
 
 He paused, looking up at the sky.
 
