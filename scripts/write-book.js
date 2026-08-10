@@ -463,7 +463,17 @@ async function main() {
     { stdio: "inherit" }
   );
   try {
-    execSync("git push", { stdio: "inherit" });
+    // Branch protection blocks GITHUB_TOKEN pushes (PR required). The owner's
+    // classic PAT bypasses it (enforce_admins: false) — same design as the
+    // book-repo protection setup. Falls back to plain push without the secret.
+    const pushToken = process.env.GH_PUSH_TOKEN;
+    if (pushToken) {
+      const origin = execSync("git remote get-url origin", { encoding: "utf8" }).trim();
+      const authed = origin.replace(/^https:\/\//, `https://x-access-token:${pushToken}@`);
+      execSync(`git push "${authed}" HEAD:main`, { stdio: "inherit" });
+    } else {
+      execSync("git push", { stdio: "inherit" });
+    }
     log("✅ pushed — GitHub Pages will rebuild");
   } catch (err) {
     // No remote (local test) or transient failure — fail loudly on real runs only.
