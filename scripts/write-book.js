@@ -470,7 +470,9 @@ async function main() {
     if (pushToken) {
       const origin = execSync("git remote get-url origin", { encoding: "utf8" }).trim();
       const authed = origin.replace(/^https:\/\//, `https://x-access-token:${pushToken}@`);
-      execSync(`git push "${authed}" HEAD:main`, { stdio: "inherit" });
+      // actions/checkout sets an Authorization extraheader (GITHUB_TOKEN) that
+      // would override the PAT — clear it so the PAT authenticates the push.
+      execSync(`git -c "http.https://github.com/.extraheader=" push "${authed}" HEAD:main`, { stdio: "inherit" });
     } else {
       execSync("git push", { stdio: "inherit" });
     }
