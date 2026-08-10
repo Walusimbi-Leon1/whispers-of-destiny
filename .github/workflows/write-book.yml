@@ -9,7 +9,7 @@ name: Daily Book Writing
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "SCHEDULE_CRON"
   workflow_dispatch:
 
 permissions:
@@ -36,4 +36,8 @@ jobs:
         run: node scripts/write-book.js
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+          OPENCODE_API_KEY_2: ${{ secrets.OPENCODE_API_KEY_2 }}
+          OPENCODE_API_KEY_3: ${{ secrets.OPENCODE_API_KEY_3 }}
+          OPENCODE_API_KEY_4: ${{ secrets.OPENCODE_API_KEY_4 }}
+          OPENCODE_API_KEY_5: ${{ secrets.OPENCODE_API_KEY_5 }}
           MODEL: big-pickle
