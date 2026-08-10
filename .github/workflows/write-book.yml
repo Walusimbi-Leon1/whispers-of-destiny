@@ -9,7 +9,7 @@ name: Daily Book Writing
 
 on:
   schedule:
-    - cron: "SCHEDULE_CRON"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
