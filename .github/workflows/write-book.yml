@@ -40,4 +40,5 @@ jobs:
           OPENCODE_API_KEY_3: ${{ secrets.OPENCODE_API_KEY_3 }}
           OPENCODE_API_KEY_4: ${{ secrets.OPENCODE_API_KEY_4 }}
           OPENCODE_API_KEY_5: ${{ secrets.OPENCODE_API_KEY_5 }}
+          GH_PUSH_TOKEN: *** secrets.GH_PUSH_TOKEN }}
           MODEL: big-pickle
