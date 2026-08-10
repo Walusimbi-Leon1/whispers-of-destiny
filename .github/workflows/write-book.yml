@@ -1,0 +1,39 @@
+name: Daily Book Writing
+
+# Writes the next ~2,000 words of the book every day using the big-pickle
+# model on opencode.ai. Runs from GitHub runners (fresh IPs) so opencode.ai
+# never rate-limits us. Pushing to main auto-deploys GitHub Pages.
+#
+#   schedule: cron "M H * * *" — set per book (UTC)
+#   workflow_dispatch: manual run ("Run workflow" button)
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-book-writing
+  cancel-in-progress: false
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Write next chapter
+        run: node scripts/write-book.js
+        env:
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+          MODEL: big-pickle
