@@ -1,0 +1,17 @@
+{
+  "title": "Whispers of Destiny",
+  "subtitle": "A Novel",
+  "genre": "Literary romance",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "A Japanese photographer (Ren Takahashi) and a Brazilian architect (Sofia Carvalho) meet on a flight from London to Tokyo and fall in love across London, Tokyo, Kyoto, São Paulo, and Lisbon — a story about fate, courage, and the whispers that guide us toward the people we are meant to find.",
+  "style": "Lyrical, cinematic third-person prose. Sensory, emotionally precise, long flowing sentences with em dashes. Intimate free indirect discourse.",
+  "characters": "Ren Takahashi — 34, Japanese photographer; Sofia Carvalho — Brazilian architect who reads Bachelard.",
+  "setting": "London, Tokyo, Kyoto, São Paulo, Lisbon.",
+  "notes": "The story recently reached their marriage in Kyoto. Continue beyond it: married life, careers, the push-pull of two worlds, deepening devotion. Keep the romance central.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v2.0/book.md"],
+  "htmlFiles": ["v2.0/book.html"],
+  "indexInject": null,
+  "mdHeadingLevel": 3,
+  "targetWords": 2000
+}
