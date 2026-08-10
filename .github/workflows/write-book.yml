@@ -3,9 +3,6 @@ name: Daily Book Writing
 # Writes the next ~2,000 words of the book every day using the big-pickle
 # model on opencode.ai. Runs from GitHub runners (fresh IPs) so opencode.ai
 # never rate-limits us. Pushing to main auto-deploys GitHub Pages.
-#
-#   schedule: cron "M H * * *" — set per book (UTC)
-#   workflow_dispatch: manual run ("Run workflow" button)
 
 on:
   schedule:
@@ -40,5 +37,5 @@ jobs:
           OPENCODE_API_KEY_3: ${{ secrets.OPENCODE_API_KEY_3 }}
           OPENCODE_API_KEY_4: ${{ secrets.OPENCODE_API_KEY_4 }}
           OPENCODE_API_KEY_5: ${{ secrets.OPENCODE_API_KEY_5 }}
-          GH_PUSH_TOKEN: *** secrets.GH_PUSH_TOKEN }}
+          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
           MODEL: big-pickle
