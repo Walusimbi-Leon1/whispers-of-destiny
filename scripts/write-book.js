@@ -28,12 +28,15 @@ const TITLE = cfg.title || "Untitled";
 const TARGET_WORDS = cfg.targetWords || 2000;
 const API_TIMEOUT_MS = cfg.apiTimeoutMs || 600000; // 10 min for 2k words
 const MAX_TOKENS = cfg.maxTokens || 16384;
-const MAX_TRIES = 3;
+const MAX_TRIES = 6;
 
 const BASE_URL = process.env.OPENCODE_BASE_URL || "https://opencode.ai/zen/v1";
 const MODEL = process.env.MODEL || "big-pickle";
-const API_KEY = process.env.OPENCODE_API_KEY;
-if (!API_KEY) {
+
+// Primary key + fallbacks (same design as openclaw.json's big-pickel1..4)
+const KEYS = [process.env.OPENCODE_API_KEY, process.env.OPENCODE_API_KEY_2, process.env.OPENCODE_API_KEY_3, process.env.OPENCODE_API_KEY_4, process.env.OPENCODE_API_KEY_5]
+  .filter(Boolean);
+if (!KEYS.length) {
   console.error("❌ OPENCODE_API_KEY not set");
   process.exit(1);
 }
@@ -280,7 +283,8 @@ ${bodyHtml}
 }
 
 // ── API call ───────────────────────────────────────────────────────────────
-async function generateNext(bookCtx, lastWords, prompt, maxTokens) {
+async function generateNext(bookCtx, lastWords, prompt, maxTokens, keyIndex) {
+  const API_KEY = KEYS[keyIndex % KEYS.length];
   const sys = `You are ${TITLE}, the continuing author of the book "${TITLE}" by ${cfg.author || "Walusimbi Leon (SGSS)"}.\n` +
     `Write in the established voice and style. Continue the story/content exactly where it left off — no recaps, no filler, no "In this chapter...".\n` +
     `Stay consistent with characters, timeline, tone, and already-established facts. Do not repeat or contradict earlier content.\n` +
@@ -360,19 +364,20 @@ async function main() {
   // Tail of current content for continuity
   const lastWords = storySrc.split(/\s+/).slice(-1200).join(" ");
 
-  // Generate
+  // Generate — rotate through fallback keys, back off harder each try
   let content = null;
   for (let i = 1; i <= MAX_TRIES; i++) {
+    const keyIdx = i - 1;
     try {
-      content = await generateNext(storySrc, lastWords, chapterPrompt, MAX_TOKENS);
+      content = await generateNext(storySrc, lastWords, chapterPrompt, MAX_TOKENS, keyIdx);
       const wc = wordCount(content.replace(/^#{1,6}\s.*$/gm, ""));
-      log(`attempt ${i}: generated ${wc} words`);
+      log(`attempt ${i} (key ${keyIdx + 1}/${KEYS.length}): generated ${wc} words`);
       if (wc < 300) throw new Error(`too short (${wc} words)`);
       break;
     } catch (err) {
-      log(`attempt ${i} failed: ${err.message}`);
+      log(`attempt ${i} (key ${keyIdx + 1}/${KEYS.length}) failed: ${err.message}`);
       if (i === MAX_TRIES) throw err;
-      await new Promise((r) => setTimeout(r, 15000 * i));
+      await new Promise((r) => setTimeout(r, 15000 * i * i)); // 15s, 60s, 135s, 240s…
     }
   }
 
