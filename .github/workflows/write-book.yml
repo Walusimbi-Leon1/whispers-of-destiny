@@ -1,12 +1,12 @@
-name: Daily Book Writing
+name: Book Writing
 
-# Writes the next ~2,000 words of the book every day using the big-pickle
+# Writes the next ~2,000 words of the book every 3 days using the big-pickle
 # model on opencode.ai. Runs from GitHub runners (fresh IPs) so opencode.ai
 # never rate-limits us. Pushing to main auto-deploys GitHub Pages.
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 5 */3 * *"
   workflow_dispatch:
 
 permissions:
